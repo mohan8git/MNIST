@@ -8,5 +8,8 @@ MNIST sample images
 Sample images from MNIST test dataset
 The MNIST database contains 60,000 training images and 10,000 testing images.[6] Half of the training set and half of the test set were taken from NIST's training dataset, while the other half of the training set and the other half of the test set were taken from NIST's testing dataset.There have been a number of scientific papers on attempts to achieve the lowest error rate; one paper, using a hierarchical system of convolutional neural networks, manages to get an error rate on the MNIST database of 0.23%. The original creators of the database keep a list of some of the methods tested on it. In their original paper, they use a support-vector machine to get an error rate of 0.8%. An extended dataset similar to MNIST called EMNIST has been published in 2017, which contains 240,000 training images, and 40,000 testing images of handwritten digits and characters.
 
+Words of Wisdom:
+Done for the getting hands on PCA.
+
 download dataset from kaggle
 Link:https://www.kaggle.com/ngbolin/mnist-dataset-digit-recognizer
