@@ -11,6 +11,8 @@ The MNIST database contains 60,000 training images and 10,000 testing images.[6]
 Words of Wisdom:
 Done for the getting hands on PCA.
 Best for learning Image Processing.
+Follow the AppliedAI video.
+
 
 download dataset from kaggle
 Link:https://www.kaggle.com/ngbolin/mnist-dataset-digit-recognizer
